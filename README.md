@@ -42,9 +42,9 @@ This project investigates the country-level factors that drive Olympic medal suc
 ### Root Files
 
 - **README.md**  
-  This introduction and project overview.
+  This is an introduction and project overview.
 - **ex3_LaTeX.pdf**  
-  (If present) Additional LaTeX-formatted or assignment-specific content.
+  (If present) Mid-course assignment 3.
 
 ## How to Use This Repository
 
